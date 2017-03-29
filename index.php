@@ -27,8 +27,68 @@
 			Pack coverage: <input type="text" id="fourthNumber" /><br>   
 			<input type="button" onClick="divideBy()" Value="Calculate" />  
 		</form>  
-						<p>Estimated packs required: <br>  
+						<p>Estimated packs required(this is an estimate based only on math!!): <br>  
 						<span id = "result2"></span></p>
+
+
+
+<footer class="footer-distributed">
+
+			<div class="footer-left">
+
+				<h3>Flooring Supply Centre</h3>
+
+				<p class="footer-links">
+					<a href="">Home</a>
+					·
+				</p>
+
+				<p class="footer-company-name">Flooring Supply Centre &copy; 2016</p>
+			</div>
+
+			<div class="footer-center">
+
+				<div>
+					<i class="fa fa-map-marker"></i>
+					<p><span>Dunnings Bridge Road </span> Netherton, Liverpool</p>
+				</div>
+
+				<div>
+					<i class="fa fa-phone"></i>
+					<p>0151 521 5221</p>
+				</div>
+
+				<div>
+					<i class="fa fa-envelope"></i>
+					<p><a href="mailto:support@company.com">sales@flooringsupplycentre.co.uk</a></p>
+				</div>
+
+			</div>
+
+			<div class="footer-right">
+
+				<p class="footer-company-about">
+					<span>Still need to choose a floor?</span>
+				Head over to our main site and browse our online catalogue.  Most of the big manufacturers do not like the deals we can offer you, its often best to call or email us direct as our prices are too good to be online!!
+				</p>
+
+				<div class="footer-icons">
+
+					<a href="https://www.facebook.com/FSCMerseyside/"><i class="fa fa-facebook"></i></a>
+					<a href="https://twitter.com/fscmerseyside"><i class="fa fa-twitter"></i></a>
+
+				</div>
+
+			</div>
+
+		</footer>
+
+
+
+
+
+
+
 
 <script type="text/javascript">
 		function multiplyBy()  
