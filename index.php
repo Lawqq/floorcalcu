@@ -20,9 +20,9 @@ Width: <input type="text" id="secondNumber" /><br>
 
 <form>
 
-<H1> Divide your room size by pack size once you have chosen a floor <H1>  
-Length: <input type="text" id="firstNumber" /><br>  
-Width: <input type="text" id="secondNumber" /><br>   
+<H1> Divide your room size by pack coverage <H1>  
+Room Size: <input type="text" id="firstNumber" /><br>  
+Pack coverage: <input type="text" id="secondNumber" /><br>   
 <input type="button" onClick="divideBy()" Value="Calculate" />  
 </form>  
 <p>Total packs required: <br>  
