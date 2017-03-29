@@ -17,7 +17,7 @@
 			</style>   
 		</head>  
 <body>  
-	<h3> Enter Room Dimensions (m2)</h3>
+	<h4> Enter Room Dimensions (m2)</h4>
 		<form>  
 			Length: <input type="text" id="firstNumber" /><br>  
 			Width: <input type="text" id="secondNumber" /><br>  
@@ -27,8 +27,9 @@
 	
 					<p>Total flooring space (m2): <br>  
 						<span id = "result"></span> </p>   
+						<br> </br>
 		
-			<h3> Enter your flooring space and pack coverage (m2) </h3>  
+			<h4> Enter your flooring space and pack coverage (m2) </h4>  
 			Flooring Space: <input type="text" id="thirdNumber" /><br>  
 			Pack coverage: <input type="text" id="fourthNumber" /><br>   
 			<input type="button" class="waves-effect waves-light btn" onClick="divideBy()" Value="Calculate" />  
