@@ -8,15 +8,26 @@ body {margin: 30px;}
 </style>   
 </head>  
 <body>  
+<h1> Enter Room Dimensions <h1>
 <form>  
 Length: <input type="text" id="firstNumber" /><br>  
 Width: <input type="text" id="secondNumber" /><br>  
-<input type="button" onClick="multiplyBy()" Value="Multiply" />  
-<input type="button" onClick="divideBy()" Value="Divide" />  
+<input type="button" onClick="multiplyBy()" Value="Calculate" />  
 </form>  
 <p>Total floor required in sqm: <br>  
 <span id = "result"></span>  
 </p>   
+
+<form>
+
+<H1> Divide your room size by pack size once you have chosen a floor <H1>  
+Length: <input type="text" id="firstNumber" /><br>  
+Width: <input type="text" id="secondNumber" /><br>   
+<input type="button" onClick="divideBy()" Value="Calculate" />  
+</form>  
+<p>Total packs required: <br>  
+<span id = "result"></span>  
+</p>
 
 		<!-- Scripts -->
 		<script type="text/javascript">
