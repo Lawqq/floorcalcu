@@ -27,7 +27,7 @@
 	
 					<p>Total flooring space in sqm: <br>  
 						<span id = "result"></span> </p>   
-		<br> </br>
+		
 			<H2> Divide your room size by pack coverage </H1>  
 			Room Size: <input type="text" id="thirdNumber" /><br>  
 			Pack coverage: <input type="text" id="fourthNumber" /><br>   
@@ -71,8 +71,8 @@
 			<div class="footer-right">
 
 				<p class="footer-company-about">
-					<span>Still need to choose a floor?</span>
-				Head over to our main site and browse our online catalogue.  Most of the big manufacturers do not like the deals we can offer you, its often best to call or email us direct as our prices are too good to be online! This calculator is a guide and doesnt take into account waste that can occur during installation.  Speak to our experts for a free quote!
+					<span>Choose a floor - Speak to our experts</span>
+				Head over to our main site and browse our online catalogue or give us a call.  Most of the big manufacturers do not like the deals we can offer you, its often best to call or email us direct as our prices are too good to be online! This calculator is a guide and doesnt take into account waste that can occur during installation.  Speak to our experts for a free quote!
 				</p>
 
 			</div>
