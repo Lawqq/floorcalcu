@@ -4,8 +4,8 @@
 			<meta charset=utf-8 />  
 			<title>Flooring Supply Centre - Room Estimation</title>  
 			 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        	<link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-        	<link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+        	<link href="../materialize/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+        	<link href="../materialize/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 			<style type="text/css">  
 			body {margin: 30px;}  
 			</style>   
@@ -45,10 +45,10 @@ function divideBy()
 document.getElementById("result2").innerHTML = num3 / num4;  
 } </script>	
 
-		 <script src="assets/js/jquery-1.11.1.min.js"></script>
-        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-        <script src="assets/js/jquery.backstretch.min.js"></script>
-        <script src="assets/js/scripts.js"></script>
+		 <script src="materialize/js/jquery-1.11.1.min.js"></script>
+        <script src="materialize/bootstrap/js/bootstrap.min.js"></script>
+        <script src="materialize/js/jquery.backstretch.min.js"></script>
+        <script src="materialize/js/scripts.js"></script>
 
 	</body>
 </html>
