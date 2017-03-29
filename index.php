@@ -17,7 +17,7 @@
 			</style>   
 		</head>  
 <body>  
-	<h2> Enter Room Dimensions(sqm)</h2>
+	<h2> Enter Room Dimensions (m2)</h2>
 		<form>  
 			Length: <input type="text" id="firstNumber" /><br>  
 			Width: <input type="text" id="secondNumber" /><br>  
@@ -25,10 +25,10 @@
 		</form>  
 					<br> </br>
 	
-					<p>Total flooring space in sqm: <br>  
+					<p>Total flooring space (m2): <br>  
 						<span id = "result"></span> </p>   
 		
-			<H2> Divide your room size by pack coverage </H1>  
+			<H2> Divide your flooring space by pack coverage (m2) </H1>  
 			Room Size: <input type="text" id="thirdNumber" /><br>  
 			Pack coverage: <input type="text" id="fourthNumber" /><br>   
 			<input type="button" class="waves-effect waves-light btn" onClick="divideBy()" Value="Calculate" />  
@@ -72,7 +72,7 @@
 
 				<p class="footer-company-about">
 					<span>Choose a floor - Speak to our experts</span>
-				Head over to our main site and browse our online catalogue or give us a call.  Most of the big manufacturers do not like the deals we can offer you, its often best to call or email us direct as our prices are too good to be online! This calculator is a guide and doesnt take into account waste that can occur during installation.  Speak to our experts for a free quote!
+				Head over to our main site and browse our online catalogue or give us a call.  Most of the big manufacturers do not like the deals we can offer you, its often best to call or email us direct as our prices are too good to be online! This calculator is a guide and doesnt take into account waste that can occur during installation.  Speak to our experts for a free quote! All working are in metres squared (m2).
 				</p>
 
 			</div>
