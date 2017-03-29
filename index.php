@@ -11,23 +11,23 @@
 			</style>   
 		</head>  
 <body>  
-	<h2> Enter Room Dimensions</h2>
+	<h2> Enter Room Dimensions(sqm)</h2>
 		<form>  
 			Length: <input type="text" id="firstNumber" /><br>  
 			Width: <input type="text" id="secondNumber" /><br>  
 			<input type="button" onClick="multiplyBy()" Value="Calculate" />  
 		</form>  
-					<p>Total floor required in sqm: <br>  
+					<p>Total flooring space in sqm: <br>  
 						<span id = "result"></span> </p>   
-
-
-		<form>
+		
+			<br> </br>
+		<br> </br>
 			<H2> Divide your room size by pack coverage </H1>  
 			Room Size: <input type="text" id="thirdNumber" /><br>  
 			Pack coverage: <input type="text" id="fourthNumber" /><br>   
 			<input type="button" onClick="divideBy()" Value="Calculate" />  
 		</form>  
-						<p>Total packs required: <br>  
+						<p>Estimated packs required: <br>  
 						<span id = "result2"></span></p>
 
 <script type="text/javascript">
