@@ -6,6 +6,12 @@
 			 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         	<link href="../materialize/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
         	<link href="../materialize/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+        	<link rel="stylesheet" href="css/demo.css">
+			<link rel="stylesheet" href="css/footer-distributed-with-address-and-phones.css">
+	
+			<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+			<link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
 			<style type="text/css">  
 			body {margin: 30px;}  
 			</style>   
