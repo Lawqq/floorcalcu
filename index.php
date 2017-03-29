@@ -83,14 +83,6 @@
 			</div>
 
 		</footer>
-
-
-
-
-
-
-
-
 <script type="text/javascript">
 		function multiplyBy()  
 {  
