@@ -2,13 +2,16 @@
 	<html>   
 		<head>  
 			<meta charset=utf-8 />  
-			<title>Flooring Supply Centre</title>  
+			<title>Flooring Supply Centre - Room Estimation</title>  
+			 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        	<link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+        	<link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 			<style type="text/css">  
 			body {margin: 30px;}  
 			</style>   
 		</head>  
 <body>  
-	<h1> Enter Room Dimensions </h1>
+	<h1> Enter Room Dimensions</h1>
 		<form>  
 			Length: <input type="text" id="firstNumber" /><br>  
 			Width: <input type="text" id="secondNumber" /><br>  
@@ -41,6 +44,11 @@ function divideBy()
         num4 = document.getElementById("fourthNumber").value;  
 document.getElementById("result2").innerHTML = num3 / num4;  
 } </script>	
+
+		 <script src="assets/js/jquery-1.11.1.min.js"></script>
+        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+        <script src="assets/js/jquery.backstretch.min.js"></script>
+        <script src="assets/js/scripts.js"></script>
 
 	</body>
 </html>
