@@ -21,7 +21,7 @@
 		<form>  
 			Length: <input type="text" id="firstNumber" /><br>  
 			Width: <input type="text" id="secondNumber" /><br>  
-			<input type="button" onClick="multiplyBy()" Value="Calculate" />  
+			<input type="button" class="waves-effect waves-light btn" onClick="multiplyBy()" Value="Calculate" />  
 		</form>  
 					<p>Total flooring space in sqm: <br>  
 						<span id = "result"></span> </p>   
@@ -31,7 +31,7 @@
 			<H2> Divide your room size by pack coverage </H1>  
 			Room Size: <input type="text" id="thirdNumber" /><br>  
 			Pack coverage: <input type="text" id="fourthNumber" /><br>   
-			<input type="button" onClick="divideBy()" Value="Calculate" />  
+			<input type="button" class="waves-effect waves-light btn" onClick="divideBy()" Value="Calculate" />  
 		</form>  
 						<p>Estimated packs required(this is an estimate based only on math!!): <br>  
 						<span id = "result2"></span></p>
@@ -43,8 +43,7 @@
 			<div class="footer-left">
 
 				<p class="footer-links">
-					<a href="http://flooringsupplycentre.co.uk/index.php?Page=1">Visit our main site!</a>
-					·
+					<a href="http://flooringsupplycentre.co.uk/index.php?Page=1">Click here to visit our main site - flooringsupplycentre.co.uk</a>
 				</p>
 
 				<p class="footer-company-name">Flooring Supply Centre &copy; 2016</p>
@@ -54,7 +53,7 @@
 
 				<div>
 					<i class="fa fa-map-marker"></i>
-					<p><span>Dunnings Bridge Road </span> Netherton, Liverpool</p>
+					<p><span>Flooring Supply Centre</span>Dunnings Bridge Road </span> Netherton, Liverpool</p>
 				</div>
 
 				<div>
