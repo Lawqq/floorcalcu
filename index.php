@@ -38,7 +38,7 @@
 <br> </br>
 						<p>Estimated packs required:
 						<span id = "result2"></span></p>
-
+<!-->
 <footer class="footer-distributed">
 
 			<div class="footer-left">
@@ -79,6 +79,7 @@
 			</div>
 
 		</footer>
+		-->
 <script type="text/javascript">
 		function multiplyBy()  
 {  
