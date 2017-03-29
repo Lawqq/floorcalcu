@@ -46,7 +46,7 @@
 					<a href="http://flooringsupplycentre.co.uk/index.php?Page=1">Click here to visit our main site - flooringsupplycentre.co.uk</a>
 				</p>
 
-				<p class="footer-company-name">Flooring Supply Centre &copy; 2016</p>
+				<p class="footer-company-name">Flooring Supply Centre &copy; 2017</p>
 			</div>
 
 			<div class="footer-center">
