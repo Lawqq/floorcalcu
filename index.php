@@ -45,7 +45,7 @@
 				<h3>Flooring Supply Centre</h3>
 
 				<p class="footer-links">
-					<a href="">Home</a>
+					<a href="http://flooringsupplycentre.co.uk/index.php?Page=1">Visit our main site!</a>
 					·
 				</p>
 
@@ -77,13 +77,6 @@
 					<span>Still need to choose a floor?</span>
 				Head over to our main site and browse our online catalogue.  Most of the big manufacturers do not like the deals we can offer you, its often best to call or email us direct as our prices are too good to be online!!
 				</p>
-
-				<div class="footer-icons">
-
-					<a href="https://www.facebook.com/FSCMerseyside/"><i class="fa fa-facebook"></i></a>
-					<a href="https://twitter.com/fscmerseyside"><i class="fa fa-twitter"></i></a>
-
-				</div>
 
 			</div>
 
