@@ -16,25 +16,91 @@
 		</style>   
 		</head>  
 	<body>  
-	<h2>Enter Room Dimensions</h2>
-		<form>  
-			Length: <input type="text" id="firstNumber" /><br>  
-			Width: <input type="text" id="secondNumber" /><br>  
-			<input type="button" onClick="multiplyBy()" Value="Calculate" />  
-		</form>  
+
+	    <div class="top-content">
+        	
+            <div class="inner-bg">
+                <div class="container">
+                	
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-2 text">
+                            <h1><strong>Flooring Supply Centre</strong> Estimate Room Size &amp; Packs Required</h1>
+                            <div class="description">
+                            	<p>Enter your room dimensions and then divide your rooms size by your pack coverage</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-box">
+	                        	<div class="form-top">
+	                        		<div class="form-top-left">
+										<h3>Enter Room Dimensions</h3>
+											</div>	
+											<div class="form-top-right">
+	                        			<i class="fa fa-key"></i>
+	                        		</div>
+	                        		</div>
+								<div class="form-bottom">
+				                    <form role="form" action="" method="post" class="login-form">
+				                    	<div class="form-group">
+				                    		<label class="sr-only" for="form-username">Length: </label><input type="text" id="firstNumber" /><br>  
+				                    		</div>
+				                    <div class="form-group">
+				                       <label class="sr-only" for="form-username">
+											Width: </label><input type="text" id="secondNumber" /><br>  
+			<input type="submit" class="btn" onClick="multiplyBy()" Value="Calculate" />  
+			</div>
+
 			<p>Total floor required in sqm:<br>  
 			<span id = "result"></span>  
-			</p>   
+			</p>
+			</form>   
+			</div>
+			</div>
+			</div>
+			</div>
 			
+
+				<div class="col-sm-1 middle-border"></div>
+                        <div class="col-sm-1"></div>
+
+                        <div class="col-sm-5">
+                        	
+                        	<div class="form-box">
+                        		<div class="form-top">
+	                        		<div class="form-top-left">
 			<form>
-				<H2> Divide your room size by pack coverage </H2>  
-				Room Size(sqm): <input type="text" id="thirdNumber" /><br>  
-				Pack coverage: <input type="text" id="fourthNumber" /><br>   
+				<H3> Divide your room size by pack coverage </H3>  
+				</div>
+					<div class="form-top-right">
+	                        			<i class="fa fa-pencil"></i>
+	                        				</div>
+	                            </div>
+	                            <div class="form-bottom">
+				                    <form role="form" action="" method="post" class="registration-form">
+				                    	<div class="form-group">
+				                    		<label class="sr-only" for="form-first-name">
+				Room Size(sqm): </label> <input type="text" id="thirdNumber" /><br>  
+				</div>
+				<div class="form-group">
+				                        	<label class="sr-only" for="form-last-name">
+				Pack coverage: </label><input type="text" id="fourthNumber" /><br>   
 				<input type="button" onClick="divideBy()" Value="Calculate" />  
+				</div>
 			</form>  
 				<p>Total packs required: <br>  
 				<span id = "result2"></span>  
 				</p>
+				         </div>
+                        	</div>
+                        	
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            
+        </div>
 
 										<script type="text/javascript">
 												function multiplyBy()  
