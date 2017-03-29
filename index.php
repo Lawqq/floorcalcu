@@ -25,20 +25,20 @@
 		</form>  
 					
 					<br> </br>
-					<br> </br>
+	
 					<p>Total flooring space in sqm: <br>  
 						<span id = "result"></span> </p>   
 		
-			<br> </br>
+
 		<br> </br>
 			<H2> Divide your room size by pack coverage </H1>  
 			Room Size: <input type="text" id="thirdNumber" /><br>  
 			Pack coverage: <input type="text" id="fourthNumber" /><br>   
 			<input type="button" class="waves-effect waves-light btn" onClick="divideBy()" Value="Calculate" />  
 		</form>  
+
 <br> </br>
-<br> </br>
-						<p>Estimated packs required(this is an estimate based only on math!!): <br>  
+						<p>Estimated packs required(this is an estimate based only on math!!):
 						<span id = "result2"></span></p>
 
 
