@@ -23,6 +23,9 @@
 			Width: <input type="text" id="secondNumber" /><br>  
 			<input type="button" class="waves-effect waves-light btn" onClick="multiplyBy()" Value="Calculate" />  
 		</form>  
+					
+					<br> </br>
+					<br> </br>
 					<p>Total flooring space in sqm: <br>  
 						<span id = "result"></span> </p>   
 		
@@ -33,6 +36,8 @@
 			Pack coverage: <input type="text" id="fourthNumber" /><br>   
 			<input type="button" class="waves-effect waves-light btn" onClick="divideBy()" Value="Calculate" />  
 		</form>  
+<br> </br>
+<br> </br>
 						<p>Estimated packs required(this is an estimate based only on math!!): <br>  
 						<span id = "result2"></span></p>
 
