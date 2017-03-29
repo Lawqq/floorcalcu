@@ -23,13 +23,10 @@
 			Width: <input type="text" id="secondNumber" /><br>  
 			<input type="button" class="waves-effect waves-light btn" onClick="multiplyBy()" Value="Calculate" />  
 		</form>  
-					
 					<br> </br>
 	
 					<p>Total flooring space in sqm: <br>  
 						<span id = "result"></span> </p>   
-		
-
 		<br> </br>
 			<H2> Divide your room size by pack coverage </H1>  
 			Room Size: <input type="text" id="thirdNumber" /><br>  
@@ -38,10 +35,8 @@
 		</form>  
 
 <br> </br>
-						<p>Estimated packs required(this is an estimate based only on math!!):
+						<p>Estimated packs required:
 						<span id = "result2"></span></p>
-
-
 
 <footer class="footer-distributed">
 
@@ -77,7 +72,7 @@
 
 				<p class="footer-company-about">
 					<span>Still need to choose a floor?</span>
-				Head over to our main site and browse our online catalogue.  Most of the big manufacturers do not like the deals we can offer you, its often best to call or email us direct as our prices are too good to be online!!
+				Head over to our main site and browse our online catalogue.  Most of the big manufacturers do not like the deals we can offer you, its often best to call or email us direct as our prices are too good to be online! This calculator is a guide and doesnt take into account waste that can occur during installation.  Speak to our experts for a free quote!
 				</p>
 
 			</div>
