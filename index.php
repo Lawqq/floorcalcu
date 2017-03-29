@@ -29,7 +29,7 @@
 						<span id = "result"></span> </p>   
 		
 			<H2> Divide your flooring space by pack coverage (m2) </H1>  
-			Room Size: <input type="text" id="thirdNumber" /><br>  
+			Flooring Space: <input type="text" id="thirdNumber" /><br>  
 			Pack coverage: <input type="text" id="fourthNumber" /><br>   
 			<input type="button" class="waves-effect waves-light btn" onClick="divideBy()" Value="Calculate" />  
 		</form>  
