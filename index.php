@@ -42,8 +42,6 @@
 
 			<div class="footer-left">
 
-				<h3>Flooring Supply Centre</h3>
-
 				<p class="footer-links">
 					<a href="http://flooringsupplycentre.co.uk/index.php?Page=1">Visit our main site!</a>
 					·
