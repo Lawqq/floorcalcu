@@ -21,16 +21,15 @@ Width: <input type="text" id="secondNumber" /><br>
 <form>
 
 <H1> Divide your room size by pack coverage <H1>  
-Room Size: <input type="text" id="firstNumber" /><br>  
-Pack coverage: <input type="text" id="secondNumber" /><br>   
+Room Size: <input type="text" id="thirdNumber" /><br>  
+Pack coverage: <input type="text" id="fourthNumber" /><br>   
 <input type="button" onClick="divideBy()" Value="Calculate" />  
 </form>  
 <p>Total packs required: <br>  
 <span id = "result2"></span>  
 </p>
 
-		<!-- Scripts -->
-		<script type="text/javascript">
+<script type="text/javascript">
 		function multiplyBy()  
 {  
         num1 = document.getElementById("firstNumber").value;  
@@ -40,9 +39,9 @@ Pack coverage: <input type="text" id="secondNumber" /><br>
   
 function divideBy()   
 {   
-        num1 = document.getElementById("firstNumber").value;  
-        num2 = document.getElementById("secondNumber").value;  
-document.getElementById("result2").innerHTML = num1 / num2;  
+        num3 = document.getElementById("thirdNumber").value;  
+        num4 = document.getElementById("fourthNumber").value;  
+document.getElementById("result2").innerHTML = num3 / num4;  
 } </script>	
 
 	</body>
