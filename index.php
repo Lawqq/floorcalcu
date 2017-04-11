@@ -6,7 +6,6 @@
 			 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         	<link href="../materialize/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
         	<link href="../materialize/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-        	<link rel="stylesheet" href="css/demo.css">
 			<link rel="stylesheet" href="css/footer-distributed-with-address-and-phones.css">
 	
 			<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
@@ -30,7 +29,7 @@
 						<br> </br>
 		
 			<h4> Enter your flooring space and pack coverage (m2) </h4>  
-			Flooring Space: <input type="text" id="thirdNumber" /><br>  
+			Flooring space: <input type="text" id="thirdNumber" /><br>  
 			Pack coverage: <input type="text" id="fourthNumber" /><br>   
 			<input type="button" class="waves-effect waves-light btn" onClick="divideBy()" Value="Calculate" />  
 		</form>  
@@ -38,7 +37,7 @@
 <br> </br>
 						<p>Estimated packs required:
 						<span id = "result2"></span></p>
-<!--
+
 <footer class="footer-distributed">
 
 			<div class="footer-left">
@@ -79,7 +78,7 @@
 			</div>
 
 		</footer>
-		-->
+		
 <script type="text/javascript">
 		function multiplyBy()  
 {  
