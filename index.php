@@ -17,6 +17,7 @@
 		</head>  
 <body>  
 	<h4> Enter Room Dimensions (m2)</h4>
+	<br> </br>
 		<form>  
 			Length: <input type="text" id="firstNumber" /><br>  
 			Width: <input type="text" id="secondNumber" /><br>  
@@ -29,11 +30,13 @@
 						<br> </br>
 		
 			<h4> Enter your flooring space and pack coverage (m2) </h4>  
+			<br> </br>
 			Flooring space: <input type="text" id="thirdNumber" /><br>  
 			Pack coverage: <input type="text" id="fourthNumber" /><br>   
 			<input type="button" class="waves-effect waves-light btn" onClick="divideBy()" Value="Calculate" />  
 		</form>  
 
+<br> </br>
 <br> </br>
 						<p>Estimated packs required:
 						<span id = "result2"></span></p>
